@@ -1,0 +1,7 @@
+{
+  "version": "1.3.1",
+  "channel": "alpha",
+  "download_url": "https://github.com/zerithil/theorysmith-releases/releases/download/alpha-v1.3.1/TheorySmith-Windows.zip",
+  "sha256": "59e1f51102a89b3ae9c07d79b58530fd3e67ff31bac4121e30916541edce3964",
+  "notes": "Official TheorySmith Alpha v1.3.1 Windows release with automatic startup update checks."
+}
