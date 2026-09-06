@@ -2,6 +2,6 @@
     "version":  "1.5.16",
     "channel":  "alpha",
     "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/alpha-v1.5.16/TheorySmith-Windows.zip",
-    "sha256":  "6108358c1b96cdb43b981a9098914960236ee82cb161cccabef74c7559d6a896",
+    "sha256":  "20541c794663ec5dabbd768e4f37dfc1c2c4999d4943a87bd7a274911bcfe1bb",
     "notes":  "Latest verified TheorySmith Alpha main-line build."
 }
