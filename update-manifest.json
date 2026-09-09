@@ -1,7 +1,7 @@
 {
     "version":  "1.5.40",
     "channel":  "alpha",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/alpha-v1.5.40/TheorySmith-Windows-59308fb3d7e4d0a83b9a2c7a7013ec44e2d2ecd5fe2a687f912b780bf40e6c3a.zip",
-    "sha256":  "59308fb3d7e4d0a83b9a2c7a7013ec44e2d2ecd5fe2a687f912b780bf40e6c3a",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/alpha-v1.5.40/TheorySmith-Windows-a3b74ba527257eda2ca845a41c2453f3052ebce0b4d35f0edd1b1de38afa976a.zip",
+    "sha256":  "a3b74ba527257eda2ca845a41c2453f3052ebce0b4d35f0edd1b1de38afa976a",
     "notes":  "Latest verified TheorySmith Alpha main-line build."
 }
