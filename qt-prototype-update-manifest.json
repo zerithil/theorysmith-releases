@@ -1,6 +1,6 @@
 {
     "version":  "0.1.1",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.1.1/TheorySmith-Qt-Prototype-Windows-5642338a7e73ff7d5b9904ad9d8c4e48e6f47ecd707a4ff0e60a2f918a77d7d3.zip",
-    "sha256":  "5642338a7e73ff7d5b9904ad9d8c4e48e6f47ecd707a4ff0e60a2f918a77d7d3",
-    "notes":  "Latest verified TheorySmith PySide6 prototype build."
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.1.1/TheorySmith-Qt-Prototype-Windows-ceffaff592e21951fafe4306869c8c1f2a8584815b63fd08b1cc7c866b8fdd35.zip",
+    "sha256":  "ceffaff592e21951fafe4306869c8c1f2a8584815b63fd08b1cc7c866b8fdd35",
+    "notes":  "Strategic Metalwork logo + Windows/taskbar icon, Workbench ally/enemy team context, and a cleaner professional Qt layout pass."
 }
