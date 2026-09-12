@@ -1,0 +1,6 @@
+{
+    "version":  "0.1.0",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.1.0/TheorySmith-Qt-Prototype-Windows-49722aa954f2905f4a4f214dcf52cc411bb6a51b1593db0dea212d84f9e1ac94.zip",
+    "sha256":  "49722aa954f2905f4a4f214dcf52cc411bb6a51b1593db0dea212d84f9e1ac94",
+    "notes":  "Latest verified TheorySmith PySide6 prototype build."
+}
