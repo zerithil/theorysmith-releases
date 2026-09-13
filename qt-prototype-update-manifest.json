@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.3",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.3/TheorySmith-Qt-Prototype-Windows-d8b70da984cd255cf16288b5a14e58b221d7fd65e716cb4727e5e83601267c94.zip",
-    "sha256":  "d8b70da984cd255cf16288b5a14e58b221d7fd65e716cb4727e5e83601267c94",
+    "version":  "0.2.4",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.4/TheorySmith-Qt-Prototype-Windows-6ae1617b5b9bd24ec38bf6859b1cf063b4dbe9f11130626632a0fa00fb4988aa.zip",
+    "sha256":  "6ae1617b5b9bd24ec38bf6859b1cf063b4dbe9f11130626632a0fa00fb4988aa",
     "notes":  "Read-only live Champ Select now syncs champion, role, allies, enemies, and contextual TheorySmith recommendations automatically."
 }
