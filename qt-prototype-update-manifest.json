@@ -1,6 +1,6 @@
 {
-    "version":  "0.1.2",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.1.2/TheorySmith-Qt-Prototype-Windows-585785205efea5808ef2a7babbf73bb521fc71463be6527a1facc16b0893ad60.zip",
-    "sha256":  "585785205efea5808ef2a7babbf73bb521fc71463be6527a1facc16b0893ad60",
+    "version":  "0.2.1",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.1/TheorySmith-Qt-Prototype-Windows-9304e7eb7e6a512a8d28aa1c08be9b0989bf71010efde5a9429062a3f3179238.zip",
+    "sha256":  "9304e7eb7e6a512a8d28aa1c08be9b0989bf71010efde5a9429062a3f3179238",
     "notes":  "Exact approved TS logo, responsive team panels, searchable champion controls, clearer preview workflow, and safer updater handling."
 }
