@@ -1,6 +1,6 @@
 {
     "version":  "0.2.9",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.9/TheorySmith-Qt-Prototype-Windows-caa5b981a2a42a18edc25ffdc9e7b5fb9410bae63756409df7f1ca6732f7068a.zip",
-    "sha256":  "caa5b981a2a42a18edc25ffdc9e7b5fb9410bae63756409df7f1ca6732f7068a",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.9/TheorySmith-Qt-Prototype-Windows-3b30f4922ea129f9a45b2367788f6903a5d3ce86209d294bc3d39357c475d71e.zip",
+    "sha256":  "3b30f4922ea129f9a45b2367788f6903a5d3ce86209d294bc3d39357c475d71e",
     "notes":  "Draft Advisor: editable profiles, all-role pools, comfort weighting, explained contextual picks, and near-tie variety."
 }
