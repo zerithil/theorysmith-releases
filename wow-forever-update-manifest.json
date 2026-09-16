@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.0",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/wow-forever-v0.2.0/TheorySmith_Forever_v0.2.0_Windows.zip",
-    "sha256":  "8ff27d529072a125f7b895aedf6e55defb3d873c49333190ac10fc58e0ae0958",
-    "notes":  "TheorySmith Forever v0.2.0."
+    "version":  "0.3.0",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/wow-forever-v0.3.0/TheorySmith_Forever_v0.3.0_Windows.zip",
+    "sha256":  "cb9e7273d27492eeb86dd2036188d7171f1d7d1b55ea1bf53e3a35b830b8de4e",
+    "notes":  "TheorySmith Forever v0.3.0."
 }
