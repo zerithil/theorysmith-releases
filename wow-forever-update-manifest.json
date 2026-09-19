@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.2",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/wow-forever-v0.3.2/TheorySmith_Forever_v0.3.2_Windows.zip",
-    "sha256":  "793211c1c00e75cedc582f020420915296a0f5537812a80ebdec452792cc0fd3",
-    "notes":  "TheorySmith Forever v0.3.2."
+    "version": "0.3.2",
+    "download_url": "https://github.com/zerithil/theorysmith-releases/releases/download/wow-forever-v0.3.2/TheorySmith_Forever_v0.3.2_Windows.zip",
+    "sha256": "793211c1c00e75cedc582f020420915296a0f5537812a80ebdec452792cc0fd3",
+    "notes": "TheorySmith Forever v0.3.2 - Chronicle Foundations: first WoW Forever addon-to-desktop data bridge, persistent character records, and a WoW connection panel. Chronicle's in-game loot notification capture is still under live beta validation."
 }
