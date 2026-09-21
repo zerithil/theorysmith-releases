@@ -1,6 +1,6 @@
 {
-    "version":  "0.2.10",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.10/TheorySmith-Qt-Prototype-Windows-098755a6e1f2d6b3c95312c7ad2e4990ca47edf3bc0d106b7f53c06465522101.zip",
-    "sha256":  "098755a6e1f2d6b3c95312c7ad2e4990ca47edf3bc0d106b7f53c06465522101",
-    "notes":  "Draft Advisor: editable profiles, all-role pools, comfort weighting, explained contextual picks, and near-tie variety."
+    "version":  "0.2.12",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.2.12/TheorySmith-Qt-Prototype-Windows-bc9786bedf8e467ea689424c4246236d6181dc16cd2798476effb4cac5dadefc.zip",
+    "sha256":  "bc9786bedf8e467ea689424c4246236d6181dc16cd2798476effb4cac5dadefc",
+    "notes":  "A redesigned Workbench that puts the recommendation first, Classic\u0027s burnished-copper look with refreshed icons, and a packaging fix. The recommendation engine, TheorySmith valuation, profiles, rune pages and saved data are unchanged."
 }
