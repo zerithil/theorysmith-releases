@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.0",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.0/TheorySmith-Qt-Prototype-Windows-19e4057fbed6c79f65d7d953801826951f2846a79b4854b9f3e89388d7bd1177.zip",
-    "sha256":  "19e4057fbed6c79f65d7d953801826951f2846a79b4854b9f3e89388d7bd1177",
-    "notes":  "Fizz, Graves, Nautilus and Nami join Classic with a new context-aware build system: their items, boots, potions and summoner spells adapt to the draft, and every recommendation says why. Other champions\u0027 builds are unchanged."
+    "version":  "0.3.1",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.1/TheorySmith-Qt-Prototype-Windows-c504f2544e405d9b4766440ff1199482cff320f047cd30c452635362830c9897.zip",
+    "sha256":  "c504f2544e405d9b4766440ff1199482cff320f047cd30c452635362830c9897",
+    "notes":  "A reliability fix for in-app updates. Builds, recommendations, profiles and saved data are unchanged."
 }
