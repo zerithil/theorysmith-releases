@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.1",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.1/TheorySmith-Qt-Prototype-Windows-c504f2544e405d9b4766440ff1199482cff320f047cd30c452635362830c9897.zip",
-    "sha256":  "c504f2544e405d9b4766440ff1199482cff320f047cd30c452635362830c9897",
-    "notes":  "A reliability fix for in-app updates. Builds, recommendations, profiles and saved data are unchanged."
+    "version":  "0.3.2",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.2/TheorySmith-Qt-Prototype-Windows-4a580b959b6a2d0b6ac18a28305138a81f2d6dca227621191446290d134d28c5.zip",
+    "sha256":  "4a580b959b6a2d0b6ac18a28305138a81f2d6dca227621191446290d134d28c5",
+    "notes":  "A major Classic refresh: the new forge-style Workbench is live, Champion Batch 2 moves more of the roster onto context-aware builds, and the Classic item catalogue is broader and more accurate."
 }
