@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.2",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.2/TheorySmith-Qt-Prototype-Windows-4a580b959b6a2d0b6ac18a28305138a81f2d6dca227621191446290d134d28c5.zip",
-    "sha256":  "4a580b959b6a2d0b6ac18a28305138a81f2d6dca227621191446290d134d28c5",
-    "notes":  "A major Classic refresh: the new forge-style Workbench is live, Champion Batch 2 moves more of the roster onto context-aware builds, and the Classic item catalogue is broader and more accurate."
+    "version":  "0.3.3",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.3/TheorySmith-Qt-Prototype-Windows-de6e6693eb5321649d0a3f28f392292136759d220176a11d4d404102a3e07c3d.zip",
+    "sha256":  "de6e6693eb5321649d0a3f28f392292136759d220176a11d4d404102a3e07c3d",
+    "notes":  "TheorySmith Adaptive is the new default build mode: it picks the Classic build profile that fits your draft and orders its items for this game, with Curated Classic profiles one click away. This update also adds Top 5 Counterpicks and stages the returning Classic champions for their October 7 release."
 }
