@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.3",
-    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.3/TheorySmith-Qt-Prototype-Windows-de6e6693eb5321649d0a3f28f392292136759d220176a11d4d404102a3e07c3d.zip",
-    "sha256":  "de6e6693eb5321649d0a3f28f392292136759d220176a11d4d404102a3e07c3d",
-    "notes":  "TheorySmith Adaptive is the new default build mode: it picks the Classic build profile that fits your draft and orders its items for this game, with Curated Classic profiles one click away. This update also adds Top 5 Counterpicks and stages the returning Classic champions for their October 7 release."
+    "version":  "0.3.4",
+    "download_url":  "https://github.com/zerithil/theorysmith-releases/releases/download/qt-prototype-v0.3.4/TheorySmith-Qt-Prototype-Windows-6667ea984090fc9b2e0a0fc7a68dc95b75233948a52295c314e1a637920012b4.zip",
+    "sha256":  "6667ea984090fc9b2e0a0fc7a68dc95b75233948a52295c314e1a637920012b4",
+    "notes":  "TheorySmith Classic 0.3.4 fixes a packaged-app Forge failure that prevented Adaptive builds from generating for champions with curated build profiles."
 }
